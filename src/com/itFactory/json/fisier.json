@@ -1,0 +1,16 @@
+{
+  "userList": [
+
+    {
+      "username": "Gigel",
+      "password": 123
+    },
+    {
+      "username": "Ioana",
+      "password": 569
+    }
+  ],
+
+  "culoare": "yellow"
+
+}
